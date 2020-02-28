@@ -1,2 +1,2 @@
 # arduino_projects
-small standalone projects
+Small Arduino standalone projects
